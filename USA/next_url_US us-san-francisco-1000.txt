@@ -1,0 +1,17 @@
+
+round> 1  https://www.crunchbase.com/discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63 
+ 0/0 Found
+round> 2  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=2_a_3eec7161-87a5-eb7a-1d43-9b12cb46ddc4 
+ 50/50 Found
+round> 3  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=3_a_0a4ae1d8-9ea4-4a1d-8d62-6167ca9ea8e1 
+ 100/100 Found
+round> 4  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=4_a_9ceb05f9-455f-44fc-b576-5a7c8189d4f0 
+ 150/150 Found
+round> 5  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=5_a_4791bd7c-ae41-447e-9f0e-07431cbe7cbe 
+ 200/200 Found
+round> 6  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=6_a_ecbb9679-4f80-4877-9d65-aee7ea29e90e 
+ 250/250 Found
+round> 7  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=7_a_79d2edcb-5957-4248-87d5-554127f15cd9 
+ 300/300 Found
+round> 8  https://www.crunchbase.com//discover/saved/us-san-francisco-1000/b75099f1-f871-43dd-8a66-ada018befc63?pageId=8_a_b3e2ba9b-92aa-347e-c323-39c6dab35b56 
+ 350/350 Found

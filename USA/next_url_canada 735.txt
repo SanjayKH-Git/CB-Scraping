@@ -1,0 +1,27 @@
+
+round> 1  https://www.crunchbase.com/discover/organization.companies/75c62db333352845a8311aaba8c152a9 
+ 0/0 Found
+round> 2  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=2_a_c9b3b241-de13-8393-4357-c62412bd514f 
+ 50/50 Found
+round> 3  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=3_a_9441e11f-93f7-4ad4-bc0a-0603a61d6a18 
+ 100/100 Found
+round> 4  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=4_a_473c83e7-4ad8-30ee-d183-ea4021ab6b91 
+ 150/150 Found
+round> 5  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=5_a_43efdc16-c72c-aabc-efb3-c6d3c847e19a 
+ 200/200 Found
+round> 6  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=6_a_96124dd2-0cad-46a1-96b0-cbca4db000f9 
+ 250/250 Found
+round> 7  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=7_a_f8f46272-7ea8-4dcb-ba8e-509333ccc719 
+ 300/300 Found
+round> 8  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=8_a_9521c33b-cb0f-d894-4589-e135c1562ca5 
+ 350/350 Found
+round> 9  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=9_a_2f79198c-8a27-47d0-9d1e-b6012707de9a 
+ 400/400 Found
+round> 10  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=10_a_875cd970-729c-4035-8202-6a1bb9d3c9c3 
+ 450/450 Found
+round> 11  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=11_a_25779f3c-71d8-48c1-a896-9240f242d6b0 
+ 500/500 Found
+round> 12  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=12_a_8a9d24af-1c7d-4e5b-9d6f-2181a752b999 
+ 550/550 Found
+round> 13  https://www.crunchbase.com//discover/organization.companies/75c62db333352845a8311aaba8c152a9?pageId=13_a_b96a1318-6a0f-4e3f-bab4-b08679debce9 
+ 600/600 Found
